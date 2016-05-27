@@ -22,13 +22,13 @@
     <AppXManifest Include="C:\Users\Maxim\documents\visual studio 2015\Projects\POTN\POTN\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-05-27T11:25:58.887</Modified>
+      <Modified>2016-05-27T12:43:14.203</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Maxim\documents\visual studio 2015\Projects\POTN\POTN\bin\x86\Debug\POTN.exe">
       <PackagePath>entrypoint\POTN.exe</PackagePath>
-      <Modified>2016-05-27T11:25:48.518</Modified>
+      <Modified>2016-05-27T12:43:13.355</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maxim\.nuget\packages\Microsoft.ApplicationInsights\1.0.0\lib\portable-win81+wpa81\Microsoft.ApplicationInsights.dll">
       <PackagePath>Microsoft.ApplicationInsights.dll</PackagePath>
@@ -498,7 +498,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maxim\documents\visual studio 2015\Projects\POTN\POTN\bin\x86\Debug\POTN.xr.xml">
       <PackagePath>POTN.xr.xml</PackagePath>
-      <Modified>2016-05-27T10:54:14.520</Modified>
+      <Modified>2016-05-27T12:43:13.159</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -506,11 +506,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maxim\documents\visual studio 2015\Projects\POTN\POTN\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2016-05-27T10:54:26.270</Modified>
+      <Modified>2016-05-27T12:43:14.003</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maxim\documents\visual studio 2015\Projects\POTN\POTN\bin\x86\Debug\Core\POTN.exe">
       <PackagePath>POTN.exe</PackagePath>
-      <Modified>2016-05-27T11:25:58.884</Modified>
+      <Modified>2016-05-27T12:43:14.200</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
