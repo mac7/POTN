@@ -26,7 +26,7 @@ namespace POTN
         {
             this.InitializeComponent();
             List<string> ranges = new List<string>() { "5Ghz", "2GHz" };
-            List<string> bands = new List<string>() { "10", "20", "40" };
+            List<string> bands = new List<string>() { "10MHz", "20MHz", "40MHz" };
             
             foreach (var range in ranges)
             {
@@ -38,7 +38,13 @@ namespace POTN
                 comboBox_band.Items.Add(band);
             }
 
+            //comboBox_band.SelectedItem.ToString();
 
+        }
+
+        private double PowerCalculation(string range, string band, string gain)
+        {
+            return 0.1;
         }
     }
 }
