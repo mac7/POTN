@@ -1,1 +1,1 @@
-D:\development\POTN\POTN\POTN\POTN.csproj;arm
+C:\Users\Maxim\documents\visual studio 2015\Projects\POTN\POTN\POTN.csproj;arm
