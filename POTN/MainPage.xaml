@@ -17,5 +17,6 @@
         <TextBox x:Name="textBox_gain" HorizontalAlignment="Left" Margin="207,169,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" FontFamily="Segoe WP SemiLight" FontSize="16" Height="33" Width="133"/>
         <Button x:Name="button" Content="Calculate" HorizontalAlignment="Left" Margin="10,219,0,0" VerticalAlignment="Top" Width="330" Click="button_Click"/>
         <TextBox x:Name="outputBox" HorizontalAlignment="Left" Margin="10,259,0,0" TextWrapping="Wrap" Text="---choose your option and press 'Calculate' button---" VerticalAlignment="Top" Height="149" Width="330" FontFamily="Segoe WP SemiLight" FontSize="13.333"/>
+        <TextBlock x:Name="title" HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="IC P.O.T.N." VerticalAlignment="Top" FontFamily="Segoe WP SemiLight" FontSize="26.667"/>
     </Grid>
 </Page>
