@@ -48,13 +48,13 @@ namespace POTN
             switch (band)
             {
                 case "10MHz":
-                    return Powers(gain -= 3); //bug here
+                    return Powers(gain); 
                                        
                 case "20MHz":
-                    return Powers(gain); 
+                    return Powers(gain -= 3); 
 
                 case "40MHz":
-                    return Powers(gain += 3); 
+                    return Powers(gain -= 6); 
 
                 default:
                     return new List<double>() { 0.00001, 0.00001, 0.00001 }; ;
@@ -65,7 +65,7 @@ namespace POTN
 
         private List<double> Powers (Int32 gain)
         {
-            double powerInWatt = Math.Pow(10, -gain / 10.0);
+            double powerInWatt = Math.Pow(10, (0-gain-3) / 10.0);
             double powerInDBm = 10 * Math.Log10(powerInWatt * 1000);
             double powerInDBW = powerInDBm - 30;
             return new List<double>() { Math.Round(powerInWatt, 4), powerInDBm, powerInDBW };
