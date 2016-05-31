@@ -22,13 +22,13 @@
     <AppXManifest Include="C:\Users\Maxim\documents\visual studio 2015\Projects\POTN\POTN\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-05-30T08:55:31.329</Modified>
+      <Modified>2016-05-31T05:58:23.726</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Maxim\documents\visual studio 2015\Projects\POTN\POTN\bin\x86\Debug\POTN.exe">
       <PackagePath>entrypoint\POTN.exe</PackagePath>
-      <Modified>2016-05-30T08:55:30.908</Modified>
+      <Modified>2016-05-31T05:58:23.391</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maxim\.nuget\packages\Microsoft.ApplicationInsights\1.0.0\lib\portable-win81+wpa81\Microsoft.ApplicationInsights.dll">
       <PackagePath>Microsoft.ApplicationInsights.dll</PackagePath>
@@ -510,7 +510,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maxim\documents\visual studio 2015\Projects\POTN\POTN\bin\x86\Debug\Core\POTN.exe">
       <PackagePath>POTN.exe</PackagePath>
-      <Modified>2016-05-30T08:55:31.327</Modified>
+      <Modified>2016-05-31T05:58:23.724</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
