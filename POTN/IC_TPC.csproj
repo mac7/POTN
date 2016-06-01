@@ -7,8 +7,8 @@
     <ProjectGuid>{D350B7FA-8B45-467C-8CE2-A16A34A7895F}</ProjectGuid>
     <OutputType>AppContainerExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>POTN</RootNamespace>
-    <AssemblyName>POTN</AssemblyName>
+    <RootNamespace>IC_TPC</RootNamespace>
+    <AssemblyName>IC_TPC</AssemblyName>
     <DefaultLanguage>en-US</DefaultLanguage>
     <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
     <TargetPlatformVersion>10.0.10586.0</TargetPlatformVersion>

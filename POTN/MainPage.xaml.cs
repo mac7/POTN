@@ -16,7 +16,7 @@ using Windows.UI.Xaml.Navigation;
 
 // The Blank Page item template is documented at http://go.microsoft.com/fwlink/?LinkId=402352&clcid=0x409
 
-namespace POTN
+namespace IC_TPC
 {
     /// <summary>
     /// An empty page that can be used on its own or navigated to within a Frame.
@@ -54,7 +54,7 @@ namespace POTN
                     return Powers(gain -= 3); 
 
                 case "40MHz":
-                    return Powers(gain -= 6); 
+                    return Powers(gain -= 3); 
 
                 default:
                     return new List<double>() { 0.00001, 0.00001, 0.00001 }; ;
@@ -77,12 +77,10 @@ namespace POTN
             {
                 var result = PowerCalculation(comboBox_range.SelectedItem.ToString(), comboBox_band.SelectedItem.ToString(), Convert.ToInt32(textBox_gain.Text));
                 StringBuilder output = new StringBuilder();
-                output.Append("Maximum transmitter power, Watt: ");
-                output.Append(result[0].ToString() + "\n");
-                output.Append("Maximum transmitter power, dBm: ");
-                output.Append(result[1].ToString() + "\n");
-                output.Append("Maximum transmitter power, dBW: ");
-                output.Append(result[2].ToString());
+                output.Append("Maximum transmitter power:\n\n");
+                output.Append(result[0].ToString() + " W \n\n");
+                output.Append(result[1].ToString() + " dBm \n\n");
+                output.Append(result[2].ToString() + " dBW");
                 outputBox.Text = output.ToString();
             }
             catch (System.NullReferenceException)

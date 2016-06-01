@@ -57,6 +57,6 @@
       <RootProperty Name="Width" />
       <RootEvent Name="Click" />
     </RootType>
-    <RootType FullName="POTN.MainPage" />
+    <RootType FullName="IC_TPC.MainPage" />
   </Roots.RootTypes>
 </Roots>

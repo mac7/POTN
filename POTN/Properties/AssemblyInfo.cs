@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("POTN")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("IC_TPC")]
+[assembly: AssemblyDescription("Transmitter power control")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("POTN")]
-[assembly: AssemblyCopyright("Copyright ©  2016")]
+[assembly: AssemblyProduct("IC_TPC")]
+[assembly: AssemblyCopyright("Copyright © sosedow@hotmail.com  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
