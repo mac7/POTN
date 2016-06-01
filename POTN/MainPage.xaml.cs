@@ -26,8 +26,8 @@ namespace IC_TPC
         public MainPage()
         {
             this.InitializeComponent();
-            List<string> ranges = new List<string>() { "5Ghz" };
-            List<string> bands = new List<string>() { "10MHz", "20MHz", "40MHz" };
+            List<string> ranges = new List<string>() { "5470-5670 MHz" };
+            List<string> bands = new List<string>() { "10 MHz", "20 MHz", "40 MHz" };
             
             foreach (var range in ranges)
             {
@@ -47,13 +47,13 @@ namespace IC_TPC
         {
             switch (band)
             {
-                case "10MHz":
+                case "10 MHz":
                     return Powers(gain); 
                                        
-                case "20MHz":
+                case "20 MHz":
                     return Powers(gain -= 3); 
 
-                case "40MHz":
+                case "40 MHz":
                     return Powers(gain -= 3); 
 
                 default:

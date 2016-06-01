@@ -9,7 +9,7 @@
     <SolutionConfiguration>Debug|x86</SolutionConfiguration>
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>446c91ae-b6bb-454b-a47a-55c8986a4b20</PackageIdentityName>
-    <IntermediateOutputPath>C:\Users\Maxim\documents\visual studio 2015\Projects\POTN\POTN\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Maxim\Documents\Visual Studio 2015\Projects\POTN\POTN\obj\x86\Debug\</IntermediateOutputPath>
     <RegisteredManifestChecksum>B6A2625ED2F331B8654777703F40FF85907A0F888175EBAB5D9E8AF2F03826A8</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>446c91ae-b6bb-454b-a47a-55c8986a4b20_1.0.0.0_x86__qzytvrnt6gxdy</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>446c91ae-b6bb-454b-a47a-55c8986a4b20_qzytvrnt6gxdy!App</RegisteredUserModeAppID>
@@ -19,16 +19,16 @@
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Maxim\documents\visual studio 2015\Projects\POTN\POTN\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Maxim\Documents\Visual Studio 2015\Projects\POTN\POTN\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-06-01T08:33:25.930</Modified>
+      <Modified>2016-06-01T14:14:40.443</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Maxim\documents\visual studio 2015\Projects\POTN\POTN\bin\x86\Debug\IC_TPC.exe">
+    <AppxPackagedFile Include="C:\Users\Maxim\Documents\Visual Studio 2015\Projects\POTN\POTN\bin\x86\Debug\IC_TPC.exe">
       <PackagePath>entrypoint\IC_TPC.exe</PackagePath>
-      <Modified>2016-06-01T08:33:19.611</Modified>
+      <Modified>2016-06-01T14:14:39.372</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maxim\.nuget\packages\Microsoft.ApplicationInsights\1.0.0\lib\portable-win81+wpa81\Microsoft.ApplicationInsights.dll">
       <PackagePath>Microsoft.ApplicationInsights.dll</PackagePath>
@@ -454,63 +454,63 @@
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
       <Modified>2016-03-22T10:09:46.502</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Maxim\documents\visual studio 2015\Projects\POTN\POTN\ApplicationInsights.config">
+    <AppxPackagedFile Include="C:\Users\Maxim\Documents\Visual Studio 2015\Projects\POTN\POTN\ApplicationInsights.config">
       <PackagePath>ApplicationInsights.config</PackagePath>
       <Modified>2016-05-27T07:18:02.638</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Maxim\documents\visual studio 2015\Projects\POTN\POTN\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\Maxim\Documents\Visual Studio 2015\Projects\POTN\POTN\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2016-05-27T07:16:54.563</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Maxim\documents\visual studio 2015\Projects\POTN\POTN\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Maxim\Documents\Visual Studio 2015\Projects\POTN\POTN\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
       <Modified>2015-10-10T19:09:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Maxim\documents\visual studio 2015\Projects\POTN\POTN\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Maxim\Documents\Visual Studio 2015\Projects\POTN\POTN\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-10-10T19:09:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Maxim\documents\visual studio 2015\Projects\POTN\POTN\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Maxim\Documents\Visual Studio 2015\Projects\POTN\POTN\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-10-10T19:09:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Maxim\documents\visual studio 2015\Projects\POTN\POTN\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Maxim\Documents\Visual Studio 2015\Projects\POTN\POTN\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-10-10T19:09:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Maxim\documents\visual studio 2015\Projects\POTN\POTN\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\Maxim\Documents\Visual Studio 2015\Projects\POTN\POTN\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-10-10T19:09:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Maxim\documents\visual studio 2015\Projects\POTN\POTN\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\Maxim\Documents\Visual Studio 2015\Projects\POTN\POTN\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-10-10T19:09:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Maxim\documents\visual studio 2015\Projects\POTN\POTN\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Maxim\Documents\Visual Studio 2015\Projects\POTN\POTN\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-10-10T19:09:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Maxim\documents\visual studio 2015\Projects\POTN\POTN\bin\x86\Debug\IC_TPC.xr.xml">
+    <AppxPackagedFile Include="C:\Users\Maxim\Documents\Visual Studio 2015\Projects\POTN\POTN\bin\x86\Debug\IC_TPC.xr.xml">
       <PackagePath>IC_TPC.xr.xml</PackagePath>
-      <Modified>2016-06-01T08:33:19.419</Modified>
+      <Modified>2016-06-01T12:18:55.700</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2015-12-25T11:30:56.775</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Maxim\documents\visual studio 2015\Projects\POTN\POTN\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Maxim\Documents\Visual Studio 2015\Projects\POTN\POTN\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2016-06-01T08:33:24.690</Modified>
+      <Modified>2016-06-01T14:14:40.074</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Maxim\documents\visual studio 2015\Projects\POTN\POTN\bin\x86\Debug\Core\IC_TPC.exe">
+    <AppxPackagedFile Include="C:\Users\Maxim\Documents\Visual Studio 2015\Projects\POTN\POTN\bin\x86\Debug\Core\IC_TPC.exe">
       <PackagePath>IC_TPC.exe</PackagePath>
-      <Modified>2016-06-01T08:33:25.928</Modified>
+      <Modified>2016-06-01T14:14:40.443</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
