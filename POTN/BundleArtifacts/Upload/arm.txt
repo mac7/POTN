@@ -1,0 +1,6 @@
+MainPackage=C:\Users\Maxim\Documents\Visual Studio 2015\Projects\POTN\POTN\bin\ARM\Release\Upload\IC_TPC_1.1.0.0_ARM.appx
+SymbolPackage=C:\Users\Maxim\Documents\Visual Studio 2015\Projects\POTN\POTN\AppPackages\IC_TPC_1.1.0.0\IC_TPC_1.1.0.0_ARM.appxsym
+ResourcePack=C:\Users\Maxim\Documents\Visual Studio 2015\Projects\POTN\POTN\_scale-100.appx
+ResourcePack=C:\Users\Maxim\Documents\Visual Studio 2015\Projects\POTN\POTN\_scale-125.appx
+ResourcePack=C:\Users\Maxim\Documents\Visual Studio 2015\Projects\POTN\POTN\_scale-150.appx
+ResourcePack=C:\Users\Maxim\Documents\Visual Studio 2015\Projects\POTN\POTN\_scale-400.appx

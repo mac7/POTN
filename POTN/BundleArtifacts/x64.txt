@@ -1,0 +1,2 @@
+MainPackage=C:\Users\Maxim\Documents\Visual Studio 2015\Projects\POTN\POTN\bin\x64\Release\IC_TPC_1.1.0.0_x64.appx
+SymbolPackage=C:\Users\Maxim\Documents\Visual Studio 2015\Projects\POTN\POTN\AppPackages\IC_TPC_1.1.0.0_Test\IC_TPC_1.1.0.0_x64.appxsym

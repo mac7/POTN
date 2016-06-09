@@ -8,7 +8,7 @@
     mc:Ignorable="d" Width="Auto" Height="Auto" VerticalAlignment="Center" HorizontalAlignment="Center" RequestedTheme="Light" Background="#FF6B8EB8">
 
 
-    <Grid HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Width="360" Height="640" Background="#FF6B8EB8">
+    <Grid HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Width="360" Height="640" Background="#FF154176">
         <ComboBox x:Name="comboBox_range" HorizontalAlignment="Left" Margin="207,92,0,0" VerticalAlignment="Top" Width="133" Height="32" Foreground="White"/>
         <TextBlock x:Name="textBlock_freq" HorizontalAlignment="Left" Margin="10,92,0,0" TextWrapping="Wrap" Text="Frequency range" VerticalAlignment="Top" Height="32" Width="197" FontSize="21.333" FontFamily="Segoe WP SemiLight" Foreground="White"/>
         <ComboBox x:Name="comboBox_band" HorizontalAlignment="Left" Margin="207,144,0,0" VerticalAlignment="Top" Width="133" Height="32" Foreground="White"/>

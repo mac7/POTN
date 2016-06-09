@@ -83,10 +83,11 @@ namespace IC_TPC
                 output.Append(result[2].ToString() + " dBW");
                 outputBox.Text = output.ToString();
             }
-            catch (System.NullReferenceException)
+            catch
+            //(System.NullReferenceException)
             {
 
-                outputBox.Text = "--- pick all values ---";
+                outputBox.Text = " pick all values or check your input";
             }
             
             
